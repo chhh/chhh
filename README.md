@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm Dmitry Avtonomov
+- Original author of [BatMass](https://batmass.org) and [FragPipe](https://fragpipe.nesvilab.org/)
+- Working in the field of mass spectrometry based :electron: :microscope: proteomics :dna: :petri_dish:
+- :heart: data visualisations.
+- My projects (with source code and publication links): https://dmtavt.com/project/
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chhh)](https://dmtavt.com)
+
 
 <!--
 **chhh/chhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
