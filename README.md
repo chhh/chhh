@@ -4,8 +4,6 @@
 - :heart: data visualisations.
 - My projects (with source code and publication links): https://dmtavt.com/project/
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chhh)](https://dmtavt.com)
-
 
 <!--
 **chhh/chhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
